@@ -1,0 +1,29 @@
+SERVICOS
+| Nome do Serviço                 | Duração estimada | Produto usado                        |
+| ------------------------------- | ---------------- | ------------------------------------ |
+| Desinsetização Residencial      | 2 horas          | Inseticida líquido geral             |
+| Desinsetização Comercial        | 3 horas          | Inseticida profissional concentrado  |
+| Desratização                    | 1h30             | Raticida granulado + isca parafinada |
+| Descupinização                  | 3 horas          | Cupinicida líquido                   |
+| Controle de Baratas             | 1h30             | Gel para baratas + pó seco           |
+| Controle de Formigas            | 1 hora           | Inseticida gel                       |
+| Controle de Mosquitos           | 2 horas          | Névoa com larvicida                  |
+| Controle de Pulgas e Carrapatos | 2 horas          | Inseticida específico p/ pets        |
+| Controle de Escorpiões          | 2h30             | Inseticida de choque e residual      |
+| Controle de Pombos              | 4 horas          | Espículas + gel repelente            |
+| Limpeza de Caixas d’Água        | 2 horas          | Cloro + escovas especiais            |
+| Sanitização de Ambientes        | 1h30             | Quaternário de amônio                |
+| Fumacê contra Mosquitos         | 1 hora           | Fipronil ou Malathion                |
+| Controle de Traças              | 1 hora           | Inseticida em spray                  |
+| Controle de Morcegos            | 3 horas          | Barreira física + repelente sonoro   |
+
+ESPECIALIDADES
+
+    "Desinsetização de Baratas",
+    "Desinsetização de Mosquitos",
+    "Desinsetização de Formigas",
+    "Desratização",                   // Controle de ratos
+    "Descupinização",                 // Controle de cupins
+    "Desinfestação Geral",
+    "Sanitização de Ambientes",
+    "Controle Integrado de Pragas"
